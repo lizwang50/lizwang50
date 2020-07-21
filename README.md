@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lizwang50/lizwang50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🔭Liz Wang
+Hi👋, I'm A Product Manager.  
+Welcome to my github page!
+
+## 📫 Get in touch
+- LinkedIn => https://www.linkedin.com/in/liz-wang-6a43a31a5/
+- Mail me! => erossatan@gmail.com
+
