@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🔭Liz Wang
-Hi👋, I'm A Product Manager.  
+Hi👋, I'm A Project Manager.  
 Welcome to my github page!
 
 ## 📫 Get in touch
