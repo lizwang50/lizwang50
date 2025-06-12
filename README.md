@@ -18,5 +18,5 @@ Welcome to my github page!
 
 ## 📫 Get in touch
 - LinkedIn => https://www.linkedin.com/in/liz-wang-6a43a31a5/
-- Mail me! => erossatan@gmail.com
+- Mail me! => lizwang50@gmail.com
 
